@@ -453,7 +453,6 @@ def Main():
         funring(phone)
         gotadi(phone)
         winmart(phone)
-        moneydong(phone)
         daihocfpt(phone)
         cafeland(phone)
         atmonline(phone)
